@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, My Name is Anurag Verma</h1>
 <h3 align="center">A passionate Upcoming Software Engineer from India</h3>
-<img align="right" alt="Coding" Width="400" src="https://c.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif">
+<img align="right" alt="Coding" Width="100" src="https://c.tenor.com/VvYRglhVQEMAAAAd/robot-hi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragkrverma&label=Profile%20views&color=000000&style=flat" alt="anuragkrverma" /> </p>
 
