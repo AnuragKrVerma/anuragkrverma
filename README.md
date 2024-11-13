@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, C++, Python, MySQL, HTML, CSS, TailwindCSS, Redis,**
 
-- 📫 How to reach me **211006@kit.ac.in**
+- 📫 How to reach me **anuragkrverma132@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1LstEgqxQfHGHG8tT_BBhQIZg8efGeZbzhfL0gRqMk3o/edit?usp=drive_link](https://docs.google.com/document/d/1LstEgqxQfHGHG8tT_BBhQIZg8efGeZbzhfL0gRqMk3o/edit?usp=drive_link)
 
